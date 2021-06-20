@@ -1,9 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Parameters TestSuite">
     <test name="Test 1">
-        <!--<parameter name="browser" value="firefox"></parameter>-->
-        <!--<parameter name="platform" value="mac"></parameter>-->
-        <!--<parameter name="response" value="201,200"></parameter>-->
+        <parameter name="userName" value="lasan@gmail.com"></parameter>
+        <parameter name="Pword" value="mac"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+
         <classes>
             <class name="Question.Ques"></class>
         </classes>

@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="828e50f9-c2f3-48a2-bf69-d714bc67202b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Ques.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Question/Ques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_DependentTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_Grouping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngParameters.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ques.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ques.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question/Ques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Question/Ques.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +24,7 @@
       <file leaf-file-name="TestNG_Parameters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_Parameters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="221">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,8 +36,8 @@
       <file leaf-file-name="Ques.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Question/Ques.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="289">
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,17 +48,8 @@
       <file leaf-file-name="Ques.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ques.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Base/BaseTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+            <state relative-caret-position="85">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -149,7 +136,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,6 +163,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNG_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNG_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestNG_Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -215,8 +212,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,38 +457,45 @@
       <option name="project" value="LOCAL" />
       <updated>1623877315740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Small Exercise">
+      <created>1623961858523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623961858523</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="E__LearningMe_TestNG_Demo_testng_xml - 2021.06.18 at 00h 36m 55s.xml">
-      <configuration name="E:/LearningMe/TestNG_Demo/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_testng_xml - 2021.06.18 at 00h 37m 30s.xml">
-      <configuration name="E:/LearningMe/TestNG_Demo/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_testngParameters_xml - 2021.06.18 at 01h 01m 15s.xml">
-      <configuration name="E:/LearningMe/TestNG_Demo/testngParameters.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 47m 01s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 13h 04m 25s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 47m 49s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 13h 06m 21s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 49m 08s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 29m 35s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 52m 49s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 29m 51s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 57m 13s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 30m 10s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 58m 14s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 31m 05s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.18 at 01h 59m 30s.xml">
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 31m 53s.xml">
+      <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 34m 16s.xml">
+      <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 34m 48s.xml">
+      <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__LearningMe_TestNG_Demo_Ques_xml - 2021.06.20 at 14h 36m 38s.xml">
       <configuration name="E:/LearningMe/TestNG_Demo/Ques.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -515,8 +517,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19261745" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -528,13 +529,13 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32547864" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.10939597" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -542,6 +543,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" id="Adb Input" order="3" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32547864" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
@@ -563,19 +565,62 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="TestNG.xml creation" />
     <MESSAGE value="TestNG Priorities" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestNG Priorities" />
+    <MESSAGE value="Small Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Exercise" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(browser.equalsIgnoreCase(&quot;firefox&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(browser.equalsIgnoreCase(&quot;chrome&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ques.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Question/Ques.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestNGpackage/SoftAssertion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -814,13 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Base/BaseTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_Grouping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -860,16 +898,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Question.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/TestNGpackage/TestNG_Parameters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="221">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -891,17 +923,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Base/BaseTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ques.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Question/Ques.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="289">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
